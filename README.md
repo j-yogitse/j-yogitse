@@ -1,11 +1,9 @@
 # Hello, I'm Julia (＾▽＾)
 
 Software Developer • College IT Instructor • AI & Machine Learning Enthusiast
-
 <p align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhkcWVpazZhdnkxNGptNDB5NmlyMWlhb2Vnd3Y0Yng5d20zeWdkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G3xHGIDU9LONNZQJid/giphy.gif"  width="200" />
 </p>
-
 I enjoy designing and developing software that combines clean user experiences with intelligent systems. My work focuses on full-stack development and machine learning, with a growing interest in generative AI.
 
 ## Technologies
