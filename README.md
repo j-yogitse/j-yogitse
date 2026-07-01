@@ -8,14 +8,6 @@ Software Developer • College IT Instructor • AI & Machine Learning Enthusias
 
 I enjoy designing and developing software that combines clean user experiences with intelligent systems. My work focuses on full-stack development, machine learning, and natural language processing, with a growing interest in generative AI and educational technology.
 
-### 💡 What I Do
-
-- 🤖 Build AI-powered applications
-- 🌐 Develop modern web applications
-- 📱 Create cross-platform mobile apps
-- 📊 Design data-driven solutions
-- 🎓 Teach Information Technology
-
 ### 🛠️ Technologies
 
 **Languages**
@@ -31,7 +23,7 @@ FastAPI • Laravel • REST APIs
 PyTorch • Hugging Face Transformers • Scikit-learn • ModernBERT
 
 **Database**
-MySQL • PostgreSQL • Supabase
+MySQL • PostgreSQL • NoSQL
 
 ### 🎯 Current Focus
 
@@ -41,6 +33,4 @@ MySQL • PostgreSQL • Supabase
 - Full-Stack Development
 - MLOps & Model Deployment
 
----
 
-*"Building intelligent solutions that make technology more useful, accessible, and impactful."*
