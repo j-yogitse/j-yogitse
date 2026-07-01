@@ -3,7 +3,7 @@
 Software Developer • College IT Instructor • AI & Machine Learning Enthusiast
 
 <p align="center">
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Enthusiast;IT+Instructor;Full-Stack+Developer;Machine+Learning+Engineer](https://imgs.search.brave.com/M0DBvRCkiXqIMF84rG82lyzKzY8GQwbZCSwzzJCuYw4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L3RodW1ibmFpbC9o/YXBweS1jYXQtd29y/a2luZy1vbi1jb21w/dXRlci1jYXJ0b29u/LWMyY2luenYycmlq/d2YzZW4uZ2lm.gif)" />
+<img src="https://imgs.search.brave.com/M0DBvRCkiXqIMF84rG82lyzKzY8GQwbZCSwzzJCuYw4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L3RodW1ibmFpbC9o/YXBweS1jYXQtd29y/a2luZy1vbi1jb21w/dXRlci1jYXJ0b29u/LWMyY2luenYycmlq/d2YzZW4uZ2lm.gif" />
 </p>
 
 I enjoy designing and developing software that combines clean user experiences with intelligent systems. My work focuses on full-stack development, machine learning, and natural language processing, with a growing interest in generative AI and educational technology.
