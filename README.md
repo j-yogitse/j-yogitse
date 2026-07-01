@@ -10,9 +10,9 @@
 
 ## Hi, I'm Julia (＾▽＾)
 
-Software Developer • IT Instructor • AI & Machine Learning Enthusiast
+Software Developer • IT Instructor
 
-I enjoy designing and developing software that combines clean user experiences with intelligent systems. My work focuses on **full-stack development**, **machine learning**, and building practical AI-powered applications.
+I enjoy designing and developing software that combines clean user experiences with intelligent systems. My work focuses on full-stack development and machine learning.
 
 </td>
 </tr>
