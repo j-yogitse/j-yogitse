@@ -8,15 +8,15 @@ Software Developer • College IT Instructor • AI & Machine Learning Enthusias
 
 I enjoy designing and developing software that combines clean user experiences with intelligent systems. My work focuses on full-stack development and machine learning, with a growing interest in generative AI.
 
-## Tech Stack
+## Technologies
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,dart,php,mysql&perline=8" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,dart,php&perline=8" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,flutter,tailwind,vite&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,flutter,tailwind&perline=8" />
 
 **Backend**
 
@@ -26,16 +26,8 @@ I enjoy designing and developing software that combines clean user experiences w
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8" />
 
-<sub>Computer Vision • Natural Language Processing • Vision Language Models</sub>
-
 **Database**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=8" />
-
-### Current Focus
-
-- Computer Vision
-- Natural Language Processing
-- MLOps & Model Deployment
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&perline=8" />
 
 
