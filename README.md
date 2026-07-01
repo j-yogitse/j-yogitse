@@ -8,76 +8,29 @@ Software Developer • College IT Instructor • AI & Machine Learning Enthusias
 
 I enjoy designing and developing software that combines clean user experiences with intelligent systems. My work focuses on full-stack development and machine learning, with a growing interest in generative AI.
 
-### Technologies
+## Tech Stack
 
-<table>
-<tr>
-<td valign="top">
+**Languages**
 
-### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,dart,php,mysql&perline=8" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,dart,php,mysql" />
-</p>
+**Frontend**
 
+<img src="https://skillicons.dev/icons?i=react,flutter,tailwind,vite&perline=8" />
 
-</td>
-</tr>
+**Backend**
 
-<tr>
-<td valign="top">
+<img src="https://skillicons.dev/icons?i=fastapi,laravel,nodejs&perline=8" />
 
-### Frontend
+**Machine Learning**
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,flutter,tailwind,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8" />
 
+<sub>Computer Vision • Natural Language Processing • Vision Language Models</sub>
 
-</td>
-</tr>
+**Database**
 
-<tr>
-<td valign="top">
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,laravel,nodejs" />
-</p>
-
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-Computer Vision • NLP • Vision Language Models (VLM)
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-MySQL • PostgreSQL • NoSQL
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=8" />
 
 ### Current Focus
 
