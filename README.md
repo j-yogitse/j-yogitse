@@ -122,5 +122,3 @@ I enjoy designing and developing software that combines clean user experiences w
 
 </table>
 
-
-how do i make sure this still looks good in mobile size 
