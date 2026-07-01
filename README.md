@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hello, I'm Julia
 
-<!--
-**huhulyaa/huhulyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer • College IT Instructor • AI & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I enjoy designing and developing software that combines clean user experiences with intelligent systems. My work focuses on full-stack development, machine learning, and natural language processing, with a growing interest in generative AI and educational technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I Do
+
+- 🤖 Build AI-powered applications
+- 🌐 Develop modern web applications
+- 📱 Create cross-platform mobile apps
+- 📊 Design data-driven solutions
+- 🎓 Teach Information Technology
+
+### 🛠️ Technologies
+
+**Languages**
+Python • TypeScript • JavaScript • PHP • SQL
+
+**Frontend**
+React • React Native • Tailwind CSS • Shadcn UI
+
+**Backend**
+FastAPI • Laravel • REST APIs
+
+**Machine Learning**
+PyTorch • Hugging Face Transformers • Scikit-learn • ModernBERT
+
+**Database**
+MySQL • PostgreSQL • Supabase
+
+### 🎯 Current Focus
+
+- Large Language Models (LLMs)
+- Natural Language Processing
+- AI in Education
+- Full-Stack Development
+- MLOps & Model Deployment
+
+---
+
+*"Building intelligent solutions that make technology more useful, accessible, and impactful."*
