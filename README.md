@@ -16,8 +16,6 @@
 
 <td valign="middle">
 
-
-
 ## Hi, I'm Julia
 
 
