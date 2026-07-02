@@ -23,7 +23,7 @@
 Software Developer • IT Instructor
 
 
-I enjoy designing and developing software that combines clean user experiences with intelligent systems. My work focuses on full-stack development and machine learning.
+I enjoy designing and developing software that combines clean user experiences with intelligent systems. My work focuses on full-stack development and I have a growing interest in machine learning.
 
 
 
