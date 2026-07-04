@@ -20,10 +20,10 @@
 
 
 
-Software Developer • IT Instructor
+ IT Instructor • Aspiring Software Developer
 
 
-I enjoy designing and developing software that combines clean user experiences with intelligent systems. My work focuses on full-stack development and I have a growing interest in machine learning.
+I enjoy designing and developing software with clean user experiences and intelligent features. My work focuses on system development, with a growing interest in machine learning.
 
 
 
