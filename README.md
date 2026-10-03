@@ -10,7 +10,7 @@
 
 ## Hi, I'm Julia
 
-IT Instructor • Aspiring Software Developer
+IT Enthusiast
 
 I enjoy designing and developing software with clean user experiences and intelligent features.
 
