@@ -18,43 +18,52 @@ I enjoy designing and developing software with clean user experiences and intell
 </tr>
 </table>
 
-**Currently Working On:**
+### Currently Working On
 
--  A Fisheries Management System to support registration, monitoring, and record management in our city.
+- A Fisheries Management System to support registration, monitoring, and record management in our city.
 
-## Technologies
+## Technologies & Tools
 
 Growing interest in machine learning ヽ(´･ᴗ･`)ノ
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,flutter,tailwind&perline=8" />
-
-</td>
-
-<td width="50%" valign="top">
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=fastapi,laravel,nodejs&perline=8" />
-
-</td>
-</tr>
-
+<table>
 <tr>
-<td valign="top">
+<td width="25%" valign="top" align="center">
 
-**Machine Learning**
+#### Frontend
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,flutter,tailwind&perline=3" />
+
+
 
 </td>
 
-<td valign="top">
+<td width="25%" valign="top" align="center">
 
-**Database**
+#### Backend
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&perline=8" />
+<img src="https://skillicons.dev/icons?i=fastapi,laravel,nodejs&perline=3" />
+
+
+</td>
+
+
+
+<td width="25%" valign="top" align="center">
+
+#### Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&perline=3" />
+
+
+</td>
+<td width="25%" valign="top" align="center">
+
+#### Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3" />
+
+
 
 </td>
 </tr>
