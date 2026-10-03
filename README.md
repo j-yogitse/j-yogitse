@@ -8,11 +8,9 @@
 
 <td valign="middle">
 
-## Hi, I'm Julia
+### Hi, I'm Julia
 
-IT Enthusiast
-
-I enjoy designing and developing software with clean user experiences and intelligent features.
+I enjoy designing and developing systems with clean user experiences and intelligent features.
 
 </td>
 </tr>
@@ -20,9 +18,9 @@ I enjoy designing and developing software with clean user experiences and intell
 
 ### Currently Working On
 
-- A Fisheries Management System to support registration, monitoring, and record management in our city.
+- RegFish - A Fisheries Management System to support registration, monitoring, and record management in our city.
 
-## Technologies & Tools
+### Technologies & Tools
 
 Growing interest in machine learning ヽ(´･ᴗ･`)ノ
 
