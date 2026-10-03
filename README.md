@@ -26,14 +26,6 @@ I enjoy designing and developing software with clean user experiences and intell
 
 Growing interest in machine learning ヽ(´･ᴗ･`)ノ
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,dart,php&perline=8" />
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,flutter,tailwind&perline=8" />
