@@ -12,7 +12,7 @@ I enjoy designing and developing systems with clean user experiences and intelli
 
 ### Technologies & Tools
 
-Growing interest in machine learning ヽ(´･ᴗ･`)ノ
+Growing interest in machine learning (´･ᴗ･`)
 
 <table align="center">
 <tr>
