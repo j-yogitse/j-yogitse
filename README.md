@@ -6,8 +6,6 @@
 
 I enjoy designing and developing systems with clean user experiences and intelligent features.
 
-</div>
-
 ### Currently Working On
 
 **RegFish** — A Fisheries Management System to support registration, monitoring, and record management in our city.
@@ -16,7 +14,7 @@ I enjoy designing and developing systems with clean user experiences and intelli
 
 Growing interest in machine learning ヽ(´･ᴗ･`)ノ
 
-<table>
+<table align="center">
 <tr>
 
 <td width="50%" align="center" valign="top">
@@ -57,3 +55,5 @@ Growing interest in machine learning ヽ(´･ᴗ･`)ノ
 
 </tr>
 </table>
+
+</div>
